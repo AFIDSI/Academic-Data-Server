@@ -23,7 +23,7 @@ Before running these scripts, you will need to first create a database to store 
 
 1. Create a database
 
-First, you'll want to create a database to store the information.  The database schema that is used for this utility is located in the file: [database/academic_analytics_structure.sql](database/academic_analytics_structure.sql).
+First, you'll want to create a database to store the information.  The database schema that is used for this utility is located in the file: [database/academic_data_structure.sql](database/academic_data_structure.sql).
 
 2. Configure your web server
 
