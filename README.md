@@ -1,9 +1,25 @@
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+<!-- PROJECT LOGO -->
 <p align="center">
 	<div align="center">
 		<img src="./images/icon.svg" alt="Logo" style="width:33%">
 	</div>
 </p>
 
+<!-- ABOUT THE PROJECT -->
 # Academic Data Server
 
 This is a server application / API for managing academic data.  It allows storing and retreiving data about university people and activities such as grants, articles, and patents.
@@ -27,6 +43,7 @@ This data server is used in the [University of Wisconsin Campus Knowledge Map](h
 	</div>
 </p>
 
+<!-- GETTING STARTED -->
 ## Documentation
 The API routes that are implemented by this data server are described in the
 [Academic Data API Reference](docs/academic_data_api_reference.pdf).
@@ -63,7 +80,8 @@ Next, you'll need to configure the academic data server to connect with your dat
 
 Distributed under the MIT License. See the [license](./LICENSE.txt) for more information.
 
-## Credits
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 
 This project was funded by the [American Family Insurance Data Science Institute](https://datascience.wisc.edu) at the [Univeristy of Wisconsin-Madison](https://www.wisc.edu)
 
