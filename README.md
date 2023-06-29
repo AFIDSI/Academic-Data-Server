@@ -9,7 +9,7 @@
 This is a server application / API for managing academic data.  It allows storing and retreiving data about university people and activities such as grants, articles, and patents.
 
 ## Applications
-This data server is used in the [University of Wisconsin Knowledge Map](http://datascience.sharedigm.com/cmap).
+This data server is used in the [University of Wisconsin Campus Knowledge Map](http://datascience.sharedigm.com/cmap).
 <p align="center">
 	<div align="center">
 		<img src="./images/knowledge-map.png" alt="UW Campus Knowledge Map" style="width:75%">
