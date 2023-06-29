@@ -8,6 +8,25 @@
 
 This is a server application / API for managing academic data.  It allows storing and retreiving data about university people and activities such as grants, articles, and patents.
 
+## Applications
+This data server is used in the University of Wisconsin Knowledge Map.
+<p align="center">
+	<div align="center">
+		<img src="./images/knowledge-map.png" alt="UW Campus Knowledge Map" style="width:75%">
+		<div style="text-align:center">
+			<label>UW Campus Knowledge Map</label>
+		</div>
+	</div>
+</p>
+<p align="center">
+	<div align="center">
+		<img src="./images/knowledge-map-grants.png" alt="UW Campus Knowledge Map Search Results" style="width:75%">
+		<div style="text-align:center">
+			<label>Example UW Campus Knowledge Map Search Results</label>
+		</div>
+	</div>
+</p>
+
 ## Documentation
 The API routes that are implemented by this data server are described in the
 [Academic Data API Reference](docs/academic_data_api_reference.pdf).
