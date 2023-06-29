@@ -36,6 +36,12 @@ The API routes that are implemented by this data server are described in the
 - PHP 8.0
 - A SQL Database (MySql or MariaDB)
 
+## Built With
+
+The following tools and frameworks were used in the construction of this project:
+
+* [![Laravel][Laravel.com]][Laravel-url]
+
 ## Configuration
 
 Before running these scripts, you will need to first create a database to store the information.
